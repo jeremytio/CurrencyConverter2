@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+
+    <string name="convertCADto">CONVERT CAD TO...</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="country_choice">MYCOUNTRYCHOICE</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
